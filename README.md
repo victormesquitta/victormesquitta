@@ -1,6 +1,5 @@
-### Hi there 👋
-
-Here are some ideas to get you started:
+### Olá, sou Victor Mesquita 👋
+***
 
 - 🌱 Estudando: JavaScript, NodeJS ReactJS, HTML, CSS, SQL e C.
 - 😄 Pronomes: Ele/dele.
