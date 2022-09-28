@@ -1,4 +1,4 @@
-#Olá, sou Victor Mesquita 👋
+# Olá, sou Victor Mesquita 👋
 ***
 
 - 🌱 Estudando: JavaScript, NodeJS ReactJS, HTML, CSS, SQL e C.
