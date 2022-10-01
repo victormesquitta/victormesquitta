@@ -1,5 +1,4 @@
 # Olá, sou Victor Mesquita 👋
-***
 
 - 🌱 Estudando: JavaScript, NodeJS ReactJS, HTML, CSS, SQL e C.
 - 😄 Pronomes: Ele/dele.
@@ -24,6 +23,8 @@
   ## 
   
 <div>
+  <h3>Contato:</h3>
+  ***
   <a href = "mailto:mvictormesquita@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
   <a href="linkedin.com/in/victor-mesquit" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
