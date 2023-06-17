@@ -1,6 +1,6 @@
 # Olá, sou Victor Mesquita 👋
 
-- 🌱 Estudando: JavaScript, NodeJS ReactJS, HTML, CSS, SQL e C.
+- 🌱 Estudando: Maven, Java, Programação Orientada a Objetos, Estrutura de dados.
 - 😄 Pronomes: Ele/dele.
 
 <div align="center">
