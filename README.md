@@ -1,6 +1,6 @@
 # Olá, sou Victor Mesquita 👋
 
-- 🌱 Estudando: Maven, Java, Programação Orientada a Objetos, Estrutura de dados.
+- 🌱 Estudando: Desenvolvimento Java Spring Boot
 - 😄 Pronomes: Ele/dele.
 
 <div align="center">
