@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/PZB34d5AI_EAAAAd/off.gif" alt="Coffee Cat GIF" />
+  <img src="https://media1.tenor.com/m/A-3Bmlx9NwsAAAAC/friday-meme.gif" alt="Michael scott e Dwight Schrute dançando." />
 </p>
 
 <p align="center">
