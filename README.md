@@ -11,8 +11,8 @@
 </p>
 
 <p align="center">
-  No Banco24Horas, mantenho os sistemas funcionando tão bem quanto o café que me mantém acordado.<br>
-  Fora do expediente, você me encontra maratonando The Office e colecionando frases do Michael Scott.
+  No Banco24Horas, eu e o café somos um só: ele me liga, eu ligo os sistemas.<br>
+  Fora do expediente, você me encontra maratonando The Office e reproduzindo frases do Michael Scott.
 </p>
 
 
